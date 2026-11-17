@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.graph_objects as go
 import plotly.express as px
 
-# ───────────── الهوية (غيّر الاسم من هنا) ─────────────
+# ───────────── الهوية     ─────────────
 APP_NAME = "Dust Risk Analyzer"
 APP_SUB = "تحليل مخاطر الغبار والإنذار المبكر — منطقة حائل"
 MODEL_AUC = 0.985
